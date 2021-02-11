@@ -1,8 +1,12 @@
 ---
 layout: page
-title: Thank you for your correspondence
+title: STS: Take Action
 ---
-## Thank you for your correspondence
-We are delighted to hear from you. You may expect to receive an answer soon.
+# Take Action
 
-Have a nice day!
+Here are **six core actions** you can take to ensure Stop the Slaughter demands are met!
+
+1. [Sign the petition](/sign)
+2. Share the petition with three people over social media or email
+3. Follow us on social media: [Instagram](https://www.instagram.com/ucstoptheslaughter)
+4. Email the UC Regents

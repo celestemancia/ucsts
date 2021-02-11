@@ -19,7 +19,7 @@ github:             default
 # personal
 location:           Los Angeles, CA
 phone:              310-318-5555
-email:              ucstoptheslaughter@gmail.com # change this to your email to receive free emails for your contact submissions via Slapform.com
+email:              general@ucstoptheslaughter.org # change this to your email to receive free emails for your contact submissions via Slapform.com
 
 # Other
 background_image:   images/chickens.webp
@@ -62,7 +62,9 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://github.com
+  # base_url: https://github.com
+  #  
+  #   
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
